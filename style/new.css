@@ -1,0 +1,296 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .title {
+    position: absolute;
+    top: 8px;
+    right:80px ;
+     margin-top: 200px;
+     margin-right: 200px;
+     font-weight: 700px;
+     font-size: 65px;
+     color: #151414
+     
+    
+  }
+  .title-one{
+    position: absolute;
+    top: 8px;
+    right:80px ;
+     margin-top: 270px;
+     margin-right: 200px;
+     font-weight: 700px;
+     font-size: 65px;
+     color: #151414
+  }
+  .title-two{
+    position: absolute;
+    top: 8px;
+    right:80px ;
+     margin-top: 340px;
+     margin-right: 200px;
+     font-weight: 700px;
+     font-size: 65px;
+     color: #151414
+
+  }
+  .sub-title{
+    position: absolute;
+    top: 8px;
+    right:80px ;
+     margin-top: 450px;
+     margin-right: 200px;
+     margin-left: 900px;
+     font-weight: 400px;
+     font-size: 16px;
+     color: #444343;
+  }
+  .btn{
+     background-color: rgb(88, 142, 180);
+    position: absolute;
+    top: 8px;
+    right:80px ;
+     margin-top: 550px;
+     margin-right: 200px;
+     margin-left: 900px;
+     font-weight: 400px;
+     width: 109px;
+     height: 23px;
+     font-style: unset;
+      
+    
+  }
+  /* main */
+
+  .main{
+   width: 1237px;
+   height: 723.3px;
+   left: 158px;
+   top: 918px;
+   margin-bottom: 150px;
+
+  }
+  .main-one{
+   
+   font-weight: 700px;
+   font-size: 65px;
+   margin-top: 350px
+   
+  }
+  .main-two{
+   font-weight: 700px;
+   font-size: 65px;
+  
+   
+}
+  .flex{
+   gap: 150px;
+   display: flex;
+  }
+  /* plans */
+  
+  .plans{
+    
+   position: absolute;
+   width: 179px;
+   height: 47px;
+   left: 711px;
+   top: 1700.3px;
+   
+   font-family: 'Work Sans';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 40px;
+   line-height: 47px;
+   /* identical to box height */
+   
+   
+   /* Dark 01 */
+   
+   color: #151414;
+   
+
+  }
+  .main-plan{
+   display: flex;
+   gap:190px;
+   margin-top: 290px;
+   margin-left:190px ;
+  }
+  .web{
+   position: absolute;
+ 
+ 
+font-weight: 700;
+font-size: 30px;
+ 
+
+color: #151414;
+  }
+  .web-one{
+   margin-top: 90px;
+   font-weight: 500;
+font-size: 25px;
+
+  }
+.color{
+   background-color: antiquewhite;
+   margin-bottom: 70px;
+}
+/* banner */
+.banner{
+   position: absolute;
+   width: 1140px;
+   height: 300px;
+   left: 230px;
+   top: 2216.3px;
+   
+   background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+   border-radius: 8px;
+   
+}
+    
+ 
+
+.center {
+
+ }
+
+ .footer{
+   position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2646.3px;
+
+/* Dark 01 */
+
+background: #151414;
+ }
+ .text{
+   position: absolute;
+width: 459px;
+height: 94px;
+left: 294px;
+top: 2275.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+ }
+ .banner-btn{
+   position: absolute;
+width: 160px;
+height: 64px;
+left: 444px;
+top: 2393.3px;
+
+background: #FFFFFF;
+border-radius: 5px;
+ }
+ .banner-p{
+   font-weight: 600;
+   font-size: 20px;
+   color: #211aac;
+   
+ }
+ /* footer */
+
+ .footer-one{
+   display: flex;
+   gap: 331;
+ }
+
+ .footer-p-one{
+    margin-left: 190px;
+width: 148px;
+height: 53px;
+left: 230px;
+top: 2776.3px;
+
+ 
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #F8F8F8;
+ }
+
+ .footer-p-two{
+   margin-left: 190px;
+   osition: absolute;
+width: 485px;
+height: 78px;
+left: 230px;
+top: 2845.3px;
+
+ 
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #FFFFFF;
+ }
+
+ .footer-p-three{
+   margin-left: 500px;
+   margin-top: 0px;
+
+width: 123px;
+height: 29px;
+left: 1046px;
+top: 2776.3px;
+
+ 
+ 
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+ }
+.email{
+   margin-left: 190px;
+   margin-top: 10px;
+   color: #0f0101;
+
+ }
+ .footer-img{
+   display: flex;
+   margin-left: 190px;
+   margin-top: 30px;
+   gap:20px;
+ }
+ .footer-top{
+   margin-top: 135px;
+ }
+ .footer-btn{ 
+width: 170.11px;
+height: 64px;
+
+ margin-top: 120px;
+ margin-left: 500px;
+
+background: #FFFFFF;
+border-radius: 8px;
+ }
+
+ .email-one{
+   position: absolute;
+width: 325px;
+height: 64px;
+ margin-left: 500px;
+ margin-top:20px ;
+ }
